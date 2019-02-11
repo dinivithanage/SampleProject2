@@ -3,6 +3,8 @@ Chicken
 Pasta
 Noodles
 Kottu
+Beans
+Pizza
 
 Thankyou
 Thankyou
