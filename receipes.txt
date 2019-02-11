@@ -3,7 +3,12 @@ Chicken
 Pasta
 Noodles
 Kottu
+Beans
+Pizza
 
 Thankyou
 Thankyou
+Done my changes
+
 final copy
+
